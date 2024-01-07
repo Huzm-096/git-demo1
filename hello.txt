@@ -13,10 +13,5 @@ hello Git! hello huzm!
 hello Git! hello huzm!
 hello Git! hello huzm!
 hello Git! hello huzm!
-<<<<<<< HEAD
 hello Git! hello huzm!master test
-hello Git! hello huzm!
-=======
-hello Git! hello huzm!
 hello Git! hello huzm!hot-fix test
->>>>>>> hot-fix
