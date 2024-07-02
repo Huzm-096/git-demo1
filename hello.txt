@@ -1,5 +1,3 @@
-hello Git! hello huzm!22222
-hello Git! hello huzm!33333
 hello Git! hello huzm!
 hello Git! hello huzm!
 hello Git! hello huzm!
@@ -13,7 +11,9 @@ hello Git! hello huzm!
 hello Git! hello huzm!
 hello Git! hello huzm!
 hello Git! hello huzm!
-hello Git! hello huzm!master test
-hello Git! hello huzm!hot-fix test
-1111111111111
-222222222222 by huzm
+hello Git! hello huzm!
+hello Git! hello huzm!
+hello Git! hello huzm!
+
+hello Git! hello huzm!
+hello Git! hello huzm!
