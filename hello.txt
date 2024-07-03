@@ -1,5 +1,5 @@
 hello Git! hello huzm!222222
-hello Git! hello huzm!hot-fix
+hello Git! hello huzm!
 hello Git! hello huzm!
 hello Git! hello huzm!
 hello Git! hello huzm!
@@ -15,5 +15,5 @@ hello Git! hello huzm!
 hello Git! hello huzm!
 hello Git! hello huzm!
 
-hello Git! hello huzm!
+hello Git! hello huzm!master 666
 hello Git! hello huzm!
